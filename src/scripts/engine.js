@@ -52,6 +52,6 @@ function checkMatch () {
     openCards = [];
 
     if (document.querySelectorAll('.boxMatch').length === emojis.length) {
-        alert ('Brabo, ganhou no joguinho!');
+        alert ('Ganhou no joguinho, meu denguinho lindo princesa maravilhosa te amo!');
     }
 }
